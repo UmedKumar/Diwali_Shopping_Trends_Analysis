@@ -1,3 +1,5 @@
+Dataset: https://www.kaggle.com/datasets/prajwal6362venom/diwali-sales
+
 # Diwali_Shopping_Trends_Analysis
 - Cleaned and manipulated data
 - Conducted exploratory data analysis (EDA) using pandas, matplotlib, and seaborn
